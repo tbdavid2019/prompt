@@ -1,3 +1,4 @@
+```
 # 以下**偽代碼prompt**，請依照語意以及流程一步一步地來執行
 # 停用代碼解釋器
 
@@ -40,4 +41,6 @@ for sent in input_sentences:
     all_outputs.append(output)
 return all_outputs以json格式輸出ensure_ascii=False, indent=4
 **直接輸出無須解釋**
+
+```
 你明白了嗎?
